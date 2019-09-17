@@ -2115,6 +2115,70 @@ body {
 .cid-rpDUqOj1Xs H1 {
   text-align: center;
 }
+.cid-rChwcPNzCE {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-image: url("../../../assets/images/purple-welcome-google-classroom-header-3-1920x480.png");
+}
+.cid-rChwcPNzCE .mbr-section-subtitle {
+  color: #099106;
+  font-weight: 300;
+}
+.cid-rChwcPNzCE .mbr-content-text {
+  color: #000000;
+  margin-bottom: 0;
+}
+.cid-rChwcPNzCE .card {
+  word-wrap: break-word;
+  flex-shrink: 0;
+  -webkit-flex-shrink: 0;
+}
+.cid-rChwcPNzCE .img-text {
+  width: 60px;
+  height: 60px;
+  font-size: 30px;
+  border: 2px solid #073b4c;
+  border-radius: 50%;
+  color: #000000;
+}
+@media (max-width: 991px) {
+  .cid-rChwcPNzCE .img-text {
+    width: 48px;
+    height: 48px;
+    font-size: 24px;
+  }
+}
+@media (min-width: 992px) {
+  .cid-rChwcPNzCE .cards-block {
+    border-top: 2px solid #073b4c;
+  }
+}
+.cid-rChwcPNzCE .cards-block .card {
+  border-bottom: 2px solid #073b4c;
+  border-radius: 0;
+}
+.cid-rChwcPNzCE .cards-container {
+  display: flex;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: center;
+  justify-content: center;
+  word-break: break-word;
+}
+.cid-rChwcPNzCE .cards-block {
+  flex-basis: 100%;
+  -webkit-flex-basis: 100%;
+}
+@media (max-width: 991px) {
+  .cid-rChwcPNzCE .media-block {
+    flex-basis: 100%;
+    -webkit-flex-basis: 100%;
+    padding-left: 0;
+    padding-bottom: 2rem;
+  }
+}
 .cid-rrN5nsathm {
   padding-top: 90px;
   padding-bottom: 90px;
