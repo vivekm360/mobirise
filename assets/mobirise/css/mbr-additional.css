@@ -2303,10 +2303,13 @@ body {
 .cid-ryZVtd1U1k .price-figure {
   font-weight: 700;
   color: #232323;
+  text-align: left;
 }
 .cid-ryZVtd1U1k .price-value {
   font-weight: 700;
   vertical-align: top;
+  color: #232323;
+  text-align: left;
 }
 @media (max-width: 550px) {
   .cid-ryZVtd1U1k .price-figure {
